@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46db89e998cc03d2",
+        "id": "ffa8a8c03f168fc2",
         "type": "tabs",
         "children": [
           {
-            "id": "eec7d7968826930b",
+            "id": "77f64b698bfabd87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "博客/Babel/语法树.md",
+                "file": "博客/随笔/个人 ID 升级.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "博客/Babel/语法树.md",
+                "file": "博客/随笔/个人 ID 升级.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "博客/Babel/语法树.md",
+                "file": "博客/随笔/个人 ID 升级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "博客/Babel/语法树.md"
+                "file": "博客/随笔/个人 ID 升级.md"
               }
             }
           },
@@ -154,8 +154,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a4354b1f6eab4663",
+  "active": "77f64b698bfabd87",
   "lastOpenFiles": [
+    "博客/随笔/未命名个人ID.md",
+    "博客/随笔/个人 ID 升级.md",
+    "博客/Web 标准/Javascript/关于 JavaScript 中 Object 顺序的一些探索.md",
+    "博客/随笔",
+    "博客/Web 标准/CSS/浅谈 CSS 选择器优先级的计算规则.md",
+    "博客/Babel/使用 Babel 自定义 js 语法.md",
+    "博客/Babel/语法树.md",
     "模板/标准模板.md",
     "Excalidraw/手写 Promise 2023-09-10 19.39.19.excalidraw.md",
     "书籍/[掘金小测]JavaScript 设计模式核⼼原理与应⽤实践.md",
@@ -166,7 +173,6 @@
     "个人文件/Axios 封装.md",
     "博客/Web 标准/Javascript/Event Loop 事件循环.md",
     "未命名.md",
-    "博客/Web 标准/Javascript/关于 JavaScript 中 Object 顺序的一些探索.md",
     "配置记录/AnonAddy 配置记录.md",
     "个人文件/招聘软件简历填写.md",
     "个人文件/未命名.md",
@@ -175,23 +181,17 @@
     "博客/设计模式/单例模式 - 使用闭包完成单例模式开发.md",
     "博客/Web 标准/Javascript/数组等可迭代对象的循环打断.md",
     "配置记录/Ubuntu 20.04 安装 Mysql.md",
-    "博客/Babel/使用 Babel 自定义 js 语法.md",
     "Excalidraw",
     "配置记录",
     "博客/设计模式/目录.md",
     "书籍/JavaScript 设计模式核⼼原理与应⽤实践.md",
     "书籍",
     "博客/设计模式/序.md",
-    "博客/Web 标准/CSS/浅谈 CSS 选择器优先级的计算规则.md",
-    "().md",
-    "博客/DevOps/Obsidian + Hexo + Github Pages + Github Actions 自动化部署博客.md",
-    "博客/Babel/语法树.md",
     "博客/设计模式",
     "博客/DevOps",
     "博客/Web 标准/CSS",
     "博客/Web 标准/Javascript",
     "博客/Web 标准",
-    "博客/Vite",
-    "博客/Webpack"
+    "博客/Vite"
   ]
 }
