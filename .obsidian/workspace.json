@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "cb4d5f6ef63518c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "46db89e998cc03d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eec7d7968826930b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d140f75248753ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "37207a95ce3bbc39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4354b1f6eab4663",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3c90de38c450be9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "896a1c9e677c1570",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5dbff6e668ffab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "210df45dafba0ee7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae2f05d4cd6dde6f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e29581185801e47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3521e04432ca1ab6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4455af92059e1ba1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "marp:Marp: Open Preview": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "eec7d7968826930b",
+  "lastOpenFiles": [
+    "个人文件/简历 2.0.md",
+    "个人文件/使用 wordpress 建立企业站点.md",
+    "配置记录/Ubuntu 20.04 安装 Docker.md",
+    "未命名.canvas",
+    "个人文件/Axios 封装.md",
+    "博客/Web 标准/Javascript/Event Loop 事件循环.md",
+    "未命名.md",
+    "博客/Web 标准/Javascript/关于 JavaScript 中 Object 顺序的一些探索.md",
+    "配置记录/AnonAddy 配置记录.md",
+    "个人文件/招聘软件简历填写.md",
+    "个人文件/未命名.md",
+    "个人文件/简历.md",
+    "博客/Web 标准/Javascript/手写 Promise.md",
+    "博客/设计模式/单例模式 - 使用闭包完成单例模式开发.md",
+    "博客/Web 标准/Javascript/数组等可迭代对象的循环打断.md",
+    "配置记录/Ubuntu 20.04 安装 Mysql.md",
+    "书籍/[掘金小测]JavaScript 设计模式核⼼原理与应⽤实践.md",
+    "博客/Babel/使用 Babel 自定义 js 语法.md",
+    "Excalidraw/手写 Promise 2023-09-10 19.39.19.excalidraw.md",
+    "Excalidraw",
+    "配置记录",
+    "博客/设计模式/目录.md",
+    "书籍/JavaScript 设计模式核⼼原理与应⽤实践.md",
+    "书籍",
+    "博客/设计模式/序.md",
+    "博客/Web 标准/CSS/浅谈 CSS 选择器优先级的计算规则.md",
+    "().md",
+    "博客/DevOps/Obsidian + Hexo + Github Pages + Github Actions 自动化部署博客.md",
+    "博客/Babel/语法树.md",
+    "博客/设计模式",
+    "博客/DevOps",
+    "博客/Web 标准/CSS",
+    "博客/Web 标准/Javascript",
+    "博客/Web 标准",
+    "博客/Vite",
+    "博客/Webpack"
+  ]
+}
