@@ -96,6 +96,16 @@ jobs:
       #     git -c user.name='${{ secrets.NAME }}' -c user.email='${{ secrets.EMAIL }}' commit -m 'deploy by actions <${{secrets.NAME}}>'
       #     git remote add origin https://${{secrets.SERVICE_ACCOUNT_KEY}}@github.com/${{env.BLOG}}.git
       #     git push origin main -f -q
+  deploy:
+    needs: obsidian2hexo-deploy-actions
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
+        uses: actions/deploy-pages@v4
