@@ -87,12 +87,15 @@ jobs:
       #     ssh-key: ${{ secrets.DEPLOY_KEY }}
       #     # token: ${{ secrets.SERVICE_ACCOUNT_KEY }}
 
-      - name: Push To Pages
-        working-directory: ./blog # 指定下面指令运行的目录
-        run: |
-          git init
-          git checkout -b main
-          git add -A
-          git -c user.name='${{ secrets.NAME }}' -c user.email='${{ secrets.EMAIL }}' commit -m 'deploy by actions <${{secrets.NAME}}>'
-          git remote add origin https://${{secrets.SERVICE_ACCOUNT_KEY}}@github.com/${{env.BLOG}}.git
-          git push origin main -f -q
+      # - name: Push To Pages
+      #   working-directory: ./blog # 指定下面指令运行的目录
+      #   run: |
+      #     git init
+      #     git checkout -b main
+      #     git add -A
+      #     git -c user.name='${{ secrets.NAME }}' -c user.email='${{ secrets.EMAIL }}' commit -m 'deploy by actions <${{secrets.NAME}}>'
+      #     git remote add origin https://${{secrets.SERVICE_ACCOUNT_KEY}}@github.com/${{env.BLOG}}.git
+      #     git push origin main -f -q
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
