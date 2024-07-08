@@ -11,8 +11,12 @@
             "id": "eec7d7968826930b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "博客/Babel/语法树.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "博客/Babel/语法树.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "博客/Babel/语法树.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "博客/Babel/语法树.md"
+              }
             }
           },
           {
@@ -146,8 +154,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "eec7d7968826930b",
+  "active": "a4354b1f6eab4663",
   "lastOpenFiles": [
+    "模板/标准模板.md",
+    "Excalidraw/手写 Promise 2023-09-10 19.39.19.excalidraw.md",
+    "书籍/[掘金小测]JavaScript 设计模式核⼼原理与应⽤实践.md",
     "个人文件/简历 2.0.md",
     "个人文件/使用 wordpress 建立企业站点.md",
     "配置记录/Ubuntu 20.04 安装 Docker.md",
@@ -164,9 +175,7 @@
     "博客/设计模式/单例模式 - 使用闭包完成单例模式开发.md",
     "博客/Web 标准/Javascript/数组等可迭代对象的循环打断.md",
     "配置记录/Ubuntu 20.04 安装 Mysql.md",
-    "书籍/[掘金小测]JavaScript 设计模式核⼼原理与应⽤实践.md",
     "博客/Babel/使用 Babel 自定义 js 语法.md",
-    "Excalidraw/手写 Promise 2023-09-10 19.39.19.excalidraw.md",
     "Excalidraw",
     "配置记录",
     "博客/设计模式/目录.md",
